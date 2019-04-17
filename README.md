@@ -1,4 +1,4 @@
-# projud_app
+# cuco_app
 
 A new Flutter project.
 
